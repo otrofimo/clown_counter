@@ -4,6 +4,8 @@ gem 'rails', '3.2.7'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 gem 'thin'
+gem 'devise'
+gem 'omniauth-facebook'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
