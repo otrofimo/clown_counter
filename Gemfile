@@ -18,6 +18,7 @@ group :test, :development do
   gem 'shoulda-matchers'
   gem 'launchy'
   gem 'quiet_assets'
+  gem 'rb-fsevent'
 end
 
 group :production do
